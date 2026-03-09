@@ -31,16 +31,30 @@
 [Thesis]     Build systems that create leverage, speed and real-world value.
 ```
 
-## Contribution Dashboard
+## GitHub Profile Matrix
 
 <div align="center">
 
-| Signal | Value | Meaning |
-| --- | --- | --- |
-| Public Repositories | `42` | 持续输出中的公开项目矩阵 |
-| Followers | `4` | 正在增长的技术关注度 |
-| Following | `7` | 持续连接技术社区与方向变化 |
-| GitHub Since | `2021-09-20` | 长期持续投入与积累 |
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Public%20Repos-42-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Public Repos" /><br />
+  <sub>持续输出中的公开项目矩阵</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Followers-4-0f172a?style=for-the-badge&logo=githubsponsors&logoColor=22c55e" alt="Followers" /><br />
+  <sub>正在增长的技术关注度</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Following-7-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="Following" /><br />
+  <sub>持续连接社区与方向变化</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/GitHub%20Since-2021.09-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8" alt="GitHub Since" /><br />
+  <sub>长期持续投入与积累</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -48,14 +62,33 @@
   <img src="https://img.shields.io/badge/Shipping%20Mode-Continuous-0f172a?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="Shipping Mode" />
   <img src="https://img.shields.io/badge/Open%20Source-Building-0f172a?style=for-the-badge&logo=opensourceinitiative&logoColor=22c55e" alt="Open Source" />
   <img src="https://img.shields.io/badge/Product%20Style-Useful%20%26%20Polished-0f172a?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="Product Style" />
+  <img src="https://img.shields.io/badge/Workflow-AI%20%2B%20Engineering-0f172a?style=for-the-badge&logo=openai&logoColor=7dd3fc" alt="Workflow" />
 </div>
 
 ## About
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - I work at the intersection of `AI Agents`, `robotics`, `automation`, and `developer tooling`.
 - 我偏爱把想法快速原型化，再把原型持续打磨成真正可上线、可维护、可复用的产品。
 - I care about practical engineering: clear architecture, visible results, and iteration speed.
 - 目前长期聚焦三件事：`帮助赚钱的产品`、`持续增强技术能力`、`建设长期复利的个人成长系统`。
+
+</td>
+<td width="40%" valign="top">
+
+```text
+STATUS: BUILDING
+MODE:   SHIP > TALK
+FOCUS:  AGENT / ROBOTICS /
+        AUTOMATION / PRODUCT
+```
+
+</td>
+</tr>
+</table>
 
 ## What I Build
 
@@ -163,7 +196,7 @@ A cluster of personal websites and experiments where I ship ideas, tools, and pr
 [03] Turn engineering ability into scalable products and personal leverage.
 ```
 
-## GitHub Telemetry
+## Build Signals
 
 <div align="center">
   <img src="https://img.shields.io/badge/Primary%20Domains-AI%20Agents%20%7C%20Robotics%20%7C%20Automation-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Domains" />
