@@ -198,15 +198,12 @@ A cluster of personal websites and experiments where I ship ideas, tools, and pr
 
 ## Build Signals
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Primary%20Domains-AI%20Agents%20%7C%20Robotics%20%7C%20Automation-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Domains" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Build%20Principle-Fast%20%7C%20Deep%20%7C%20Useful-082f49?style=flat-square&logo=superuser&logoColor=7dd3fc" alt="Build Principle" />
-  <img src="https://img.shields.io/badge/Output%20Style-Engineering%20%2B%20Product-082f49?style=flat-square&logo=codersrank&logoColor=7dd3fc" alt="Output Style" />
-  <img src="https://img.shields.io/badge/Open%20Source-Continuous%20Iteration-082f49?style=flat-square&logo=githubsponsors&logoColor=22c55e" alt="Open Source Iteration" />
-</div>
+| Signal | Value |
+| --- | --- |
+| Primary Domains | `AI Agents / Robotics / Automation` |
+| Build Principle | `Fast / Deep / Useful` |
+| Output Style | `Engineering + Product` |
+| Open Source Mode | `Continuous Iteration` |
 
 ## Philosophy
 
