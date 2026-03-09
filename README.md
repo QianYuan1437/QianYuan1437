@@ -31,6 +31,25 @@
 [Thesis]     Build systems that create leverage, speed and real-world value.
 ```
 
+## Contribution Dashboard
+
+<div align="center">
+
+| Signal | Value | Meaning |
+| --- | --- | --- |
+| Public Repositories | `42` | 持续输出中的公开项目矩阵 |
+| Followers | `4` | 正在增长的技术关注度 |
+| Following | `7` | 持续连接技术社区与方向变化 |
+| GitHub Since | `2021-09-20` | 长期持续投入与积累 |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Shipping%20Mode-Continuous-0f172a?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="Shipping Mode" />
+  <img src="https://img.shields.io/badge/Open%20Source-Building-0f172a?style=for-the-badge&logo=opensourceinitiative&logoColor=22c55e" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Product%20Style-Useful%20%26%20Polished-0f172a?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="Product Style" />
+</div>
+
 ## About
 
 - I work at the intersection of `AI Agents`, `robotics`, `automation`, and `developer tooling`.
@@ -147,12 +166,13 @@ A cluster of personal websites and experiments where I ship ideas, tools, and pr
 ## GitHub Telemetry
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=QianYuan1437&show_icons=true&theme=transparent&title_color=7dd3fc&text_color=e2e8f0&icon_color=38bdf8&border_color=1f2937&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianYuan1437&layout=compact&theme=transparent&title_color=7dd3fc&text_color=e2e8f0&border_color=1f2937" />
+  <img src="https://img.shields.io/badge/Primary%20Domains-AI%20Agents%20%7C%20Robotics%20%7C%20Automation-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Domains" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QianYuan1437&bg_color=020617&color=38bdf8&line=22c55e&point=f8fafc&area=true&hide_border=true" />
+  <img src="https://img.shields.io/badge/Build%20Principle-Fast%20%7C%20Deep%20%7C%20Useful-082f49?style=flat-square&logo=superuser&logoColor=7dd3fc" alt="Build Principle" />
+  <img src="https://img.shields.io/badge/Output%20Style-Engineering%20%2B%20Product-082f49?style=flat-square&logo=codersrank&logoColor=7dd3fc" alt="Output Style" />
+  <img src="https://img.shields.io/badge/Open%20Source-Continuous%20Iteration-082f49?style=flat-square&logo=githubsponsors&logoColor=22c55e" alt="Open Source Iteration" />
 </div>
 
 ## Philosophy
