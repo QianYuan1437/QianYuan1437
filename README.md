@@ -146,43 +146,44 @@ FOCUS:  AGENT / ROBOTICS /
 <tr>
 <td width="50%" valign="top">
 
-### Positions Tracking
-A sci-fi style investor holdings intelligence board with 13F updates, GitHub Pages deployment, 10-year trend traceability, and interactive visual analytics.
+### CBF-Embodied-Intelligence
+具身机械臂安全攸关运动控制避障算法的脱敏演示视频，包括基于全身 URDF 构建障碍物包络的可视化实现、基于包络和 CBF 实现全身碰撞检测、基于全身碰撞检测结果实现安全轨迹规划、基于动量观测方法实现碰撞检测及后处理。
 
-**Keywords:** Data Product / Visualization / Automation / Finance Dashboard
+**Keywords:** Robotics / Embodied Intelligence / Safety Control / CBF
 
-[![Repo](https://img.shields.io/badge/Repo-PositionsTracking-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/PositionsTracking)
-[![Live](https://img.shields.io/badge/Live-Dashboard-0369a1?style=flat-square&logo=vercel)](https://qianyuan1437.github.io/PositionsTracking/)
+[![Repo](https://img.shields.io/badge/Repo-CBF--Embodied--Intelligence-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/CBF-Embodied-Intelligence)
 
 </td>
 <td width="50%" valign="top">
 
-### TechNews
-Daily technology news aggregation pipeline designed for high-density reading and automatic publishing.
+### Geomagic
+基于 isaac lab 的 geomagic touch 机械臂安全避障实现，包括基于 OpenHaptics HDAPI 构建的完整 Python 通讯和控制接口，实现对 Geomagic Touch 力反馈设备的力矩控制、参数辨识与安全滤波等实验示例。
 
-**Keywords:** Automation / Information Aggregation / GitHub Pages
+**Keywords:** Robotics / Isaac Lab / Haptic Control / Geomagic Touch
 
-[![Repo](https://img.shields.io/badge/Repo-TechNews-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/TechNews)
+[![Repo](https://img.shields.io/badge/Repo-Geomagic-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/Geomagic)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### osssync
-A practical desktop tool for synchronizing Alibaba Cloud OSS buckets with product-minded workflow design.
+### FlexibleRoboticArm
+柔性绳驱机器人光点定位控制系统上位机的完整实现，基于 PyQt6 的柔性绳驱机械臂上位机控制软件，集成串口通信、视觉定位、运动控制与数据采集分析等核心功能，支持多种控制算法（PID、Koopman-LQR）实时切换。
 
-**Keywords:** Flutter / Desktop App / Cloud Tooling
+**Keywords:** Robotics / PyQt6 / Visual Tracking / Control Systems
 
-[![Repo](https://img.shields.io/badge/Repo-osssync-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/osssync)
+[![Repo](https://img.shields.io/badge/Repo-FlexibleRoboticArm-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/FlexibleRoboticArm)
 
 </td>
 <td width="50%" valign="top">
 
-### Personal Web Presence
-A cluster of personal websites and experiments where I ship ideas, tools, and product iterations in public.
+### osssync
+基于 Flutter 构建的 Windows 桌面应用，用于将本地文件夹与阿里云 OSS 存储桶进行自动定时同步，支持多账户管理、多存储桶配置、灵活同步方向、自动定时同步、增量同步、系统托盘、同步日志、深色/浅色主题切换、偏好持久化保存等多个功能。
 
-**Links:** [qianyuan1437.github.io](https://qianyuan1437.github.io/) · [143709123.xyz](https://143709123.xyz)
+**Keywords:** Flutter / Desktop App / Cloud Storage / OSS
+
+[![Repo](https://img.shields.io/badge/Repo-osssync-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/osssync)
 
 </td>
 </tr>
