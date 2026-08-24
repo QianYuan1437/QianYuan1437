@@ -12,13 +12,13 @@
 </p>
 
 <p>
-  <a href="https://qianyuan1437.github.io/"><img src="https://img.shields.io/badge/Website-qianyuan1437.github.io-082f49?style=flat-square&logo=googlechrome&logoColor=7dd3fc" alt="Website" /></a>
-  <a href="mailto:zyh42018108@163.com"><img src="https://img.shields.io/badge/Email-zyh42018108%40163.com-082f49?style=flat-square&logo=gmail&logoColor=7dd3fc" alt="Email" /></a>
-  <a href="https://github.com/QianYuan1437/PositionsTracking"><img src="https://img.shields.io/badge/Flagship-PositionsTracking-082f49?style=flat-square&logo=github&logoColor=7dd3fc" alt="Flagship Project" /></a>
+  <a href="https://qianyuan1437.github.io/"><img src="https://img.shields.io/badge/%E7%BD%91%E7%AB%99-qianyuan1437.github.io-082f49?style=flat-square&logo=googlechrome&logoColor=7dd3fc" alt="Website" /></a>
+  <a href="mailto:zyh42018108@163.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-zyh42018108%40163.com-082f49?style=flat-square&logo=gmail&logoColor=7dd3fc" alt="Email" /></a>
+  <a href="https://github.com/QianYuan1437/PositionsTracking"><img src="https://img.shields.io/badge/%E6%A0%87%E5%BF%97%E9%A1%B9%E7%9B%AE-PositionsTracking-082f49?style=flat-square&logo=github&logoColor=7dd3fc" alt="Flagship Project" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/QianYuan1437/QianYuan1437/blob/main/README_zh.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E7%89%88-English-0f172a?style=for-the-badge&logo=readme&logoColor=7dd3fc" alt="Chinese Version" /></a>
+  <a href="https://github.com/QianYuan1437/QianYuan1437/blob/main/README.md"><img src="https://img.shields.io/badge/English%20Version-%E8%8B%B1%E6%96%87%E7%89%88-0f172a?style=for-the-badge&logo=readme&logoColor=7dd3fc" alt="English Version" /></a>
 </p>
 
 </div>
@@ -43,19 +43,19 @@
 <tr>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/Public%20Repos-42-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Public Repos" /><br />
-  <sub>Continuously expanding public project portfolio</sub>
+  <sub>持续输出中的公开项目矩阵</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/Followers-4-0f172a?style=for-the-badge&logo=githubsponsors&logoColor=22c55e" alt="Followers" /><br />
-  <sub>Growing technical influence</sub>
+  <sub>正在增长的技术关注度</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/Following-7-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="Following" /><br />
-  <sub>Active community engagement and evolving interests</sub>
+  <sub>持续连接社区与方向变化</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/GitHub%20Since-2021.09-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8" alt="GitHub Since" /><br />
-  <sub>Long-term commitment and accumulation</sub>
+  <sub>长期持续投入与积累</sub>
 </td>
 </tr>
 </table>
@@ -75,10 +75,10 @@
 <tr>
 <td width="60%" valign="top">
 
-- I work at the intersection of `AI Agents`, `robotics`, `automation`, and `developer tooling`.
-- I prefer to rapidly prototype ideas, then continuously refine prototypes into truly deployable, maintainable, and reusable products.
-- I care about practical engineering: clear architecture, visible results, and iteration speed.
-- Currently focused on three long-term pursuits: `products that generate revenue`, `continuously strengthening technical capabilities`, and `building a personal growth system with compound returns`.
+- 我工作在 `AI Agents`、`robotics`、`automation` 和 `developer tooling` 的交叉领域。
+- 我偏爱把想法快速原型化，再把原型持续打磨成真正可上线、可维护、可复用的产品。
+- 我注重实际工程能力：清晰的架构、可视化的成果、快速的迭代。
+- 目前长期聚焦三件事：`帮助赚钱的产品`、`持续增强技术能力`、`建设长期复利的个人成长系统`。
 
 </td>
 <td width="40%" valign="top">
@@ -101,28 +101,28 @@ FOCUS:  AGENT / ROBOTICS /
 <td width="33%" valign="top">
 
 ### AI Agents
-- AI-native workflows
-- Automation systems
-- Data pipelines
-- Tool productization
+- AI 原生工作流
+- 自动化系统
+- 数据管道
+- 工具产品化
 
 </td>
 <td width="33%" valign="top">
 
 ### Robotics
-- SLAM / perception
-- ROS ecosystems
-- Sensor fusion
-- Embodied intelligence exploration
+- SLAM / 感知
+- ROS 生态系统
+- 传感器融合
+- 具身智能探索
 
 </td>
 <td width="33%" valign="top">
 
 ### Product Engineering
-- Fast prototyping
-- Beautiful dashboards
-- GitHub Actions delivery
-- Practical desktop / web tools
+- 快速原型
+- 精美仪表盘
+- GitHub Actions 交付
+- 实用的桌面 / Web 工具
 
 </td>
 </tr>
@@ -136,11 +136,11 @@ FOCUS:  AGENT / ROBOTICS /
 
 <div align="center">
 
-| Direction | Stack |
+| 方向 | 技术栈 |
 | --- | --- |
-| AI / Automation | Python, Node.js, GitHub Actions, Data Processing |
-| Robotics / Vision | C++, ROS, OpenCV, Sensor Fusion |
-| Product / Interface | JavaScript, TypeScript, Flutter, Web UI |
+| AI / 自动化 | Python, Node.js, GitHub Actions, 数据处理 |
+| 机器人 / 视觉 | C++, ROS, OpenCV, 传感器融合 |
+| 产品 / 界面 | JavaScript, TypeScript, Flutter, Web UI |
 
 </div>
 
@@ -151,9 +151,9 @@ FOCUS:  AGENT / ROBOTICS /
 <td width="50%" valign="top">
 
 ### CBF-Embodied-Intelligence
-A desensitized demonstration video of safety-critical motion control and obstacle avoidance algorithms for embodied robotic arms, including full-body URDF-based obstacle envelope construction and visualization, full-body collision detection via envelope and CBF, safe trajectory planning based on collision detection results, and momentum-observation-based collision detection and post-processing.
+具身机械臂安全攸关运动控制避障算法的脱敏演示视频，包括基于全身 URDF 构建障碍物包络的可视化实现、基于包络和 CBF 实现全身碰撞检测、基于全身碰撞检测结果实现安全轨迹规划、基于动量观测方法实现碰撞检测及后处理。
 
-**Keywords:** Robotics / Embodied Intelligence / Safety Control / CBF
+**关键词:** Robotics / Embodied Intelligence / Safety Control / CBF
 
 [![Repo](https://img.shields.io/badge/Repo-CBF--Embodied--Intelligence-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/CBF-Embodied-Intelligence)
 
@@ -161,9 +161,9 @@ A desensitized demonstration video of safety-critical motion control and obstacl
 <td width="50%" valign="top">
 
 ### Geomagic
-Isaac Lab-based safety obstacle avoidance implementation for Geomagic Touch robotic arms, including a complete Python communication and control interface built on OpenHaptics HDAPI, implementing torque control, parameter identification, and safety filtering for the Geomagic Touch (formerly Phantom Omni) haptic device.
+基于 isaac lab 的 geomagic touch 机械臂安全避障实现，包括基于 OpenHaptics HDAPI 构建的完整 Python 通讯和控制接口，实现对 Geomagic Touch（原 Phantom Omni）力反馈设备的力矩控制、参数辨识与安全滤波等实验示例。
 
-**Keywords:** Robotics / Isaac Lab / Haptic Control / Geomagic Touch
+**关键词:** Robotics / Isaac Lab / Haptic Control / Geomagic Touch
 
 [![Repo](https://img.shields.io/badge/Repo-Geomagic-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/Geomagic)
 
@@ -173,9 +173,9 @@ Isaac Lab-based safety obstacle avoidance implementation for Geomagic Touch robo
 <td width="50%" valign="top">
 
 ### FlexibleRoboticArm
-Complete implementation of the upper-computer control software for a flexible cable-driven robotic arm light-point positioning control system, built with PyQt6 integrating serial communication, visual positioning, motion control, and data acquisition/analysis, supporting real-time switching among multiple control algorithms (PID, Koopman-LQR).
+柔性绳驱机器人光点定位控制系统上位机的完整实现，基于 PyQt6 的柔性绳驱机械臂上位机控制软件，集成串口通信、视觉定位、运动控制与数据采集分析等核心功能，支持多种控制算法（PID、Koopman-LQR）实时切换。
 
-**Keywords:** Robotics / PyQt6 / Visual Tracking / Control Systems
+**关键词:** Robotics / PyQt6 / Visual Tracking / Control Systems
 
 [![Repo](https://img.shields.io/badge/Repo-FlexibleRoboticArm-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/FlexibleRoboticArm)
 
@@ -183,9 +183,9 @@ Complete implementation of the upper-computer control software for a flexible ca
 <td width="50%" valign="top">
 
 ### osssync
-A Flutter-based Windows desktop application for automatic scheduled synchronization between local folders and Alibaba Cloud OSS buckets, supporting multi-account management, multi-bucket configuration, flexible sync direction, automatic scheduled sync, incremental sync, system tray, sync logs, dark/light theme switching, and preference persistence.
+基于 Flutter 构建的 Windows 桌面应用，用于将本地文件夹与阿里云 OSS 存储桶进行自动定时同步，支持多账户管理、多存储桶配置、灵活同步方向、自动定时同步、增量同步、系统托盘、同步日志、深色/浅色主题切换、偏好持久化保存等多个功能。
 
-**Keywords:** Flutter / Desktop App / Cloud Storage / OSS
+**关键词:** Flutter / Desktop App / Cloud Storage / OSS
 
 [![Repo](https://img.shields.io/badge/Repo-osssync-0f172a?style=flat-square&logo=github)](https://github.com/QianYuan1437/osssync)
 
@@ -213,7 +213,7 @@ A Flutter-based Windows desktop application for automatic scheduled synchronizat
 ## Philosophy
 
 > Build fast. Build deep. Build useful things.
-> Leverage engineering to turn ideas into real impact.
+> 用工程能力，把想法变成真实杠杆。
 
 ## Contact
 
